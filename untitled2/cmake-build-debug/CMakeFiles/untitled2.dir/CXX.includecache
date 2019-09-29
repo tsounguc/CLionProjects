@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Christian Tsoungui/CLionProjects/untitled2/house.h
+string
+-
+
+C:/Users/Christian Tsoungui/CLionProjects/untitled2/tsounguinkoulou.cpp
+iostream
+-
+house.h
+C:/Users/Christian Tsoungui/CLionProjects/untitled2/house.h
+string
+-
+
